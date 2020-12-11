@@ -7,4 +7,4 @@ By the end of this video, you will have a strong understanding of basic React wo
 
 Setup:
 
-# run npm i && npm start
+. run npm i && npm start
